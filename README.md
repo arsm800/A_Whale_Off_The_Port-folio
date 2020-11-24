@@ -8,4 +8,4 @@ Examined the risk and return associated with two algorithmic portfolios of stock
 * [pandas](https://pandas.pydata.org)
 * [NumPy](https://numpy.org)
 * [matplotlib](https://matplotlib.org)
-* [seaborn](https://seaborn.pydata.org)
+* [seaborn](https://seaborn.pydata.org) - [heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html?highlight=heatmap#seaborn.heatmap)
